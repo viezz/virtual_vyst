@@ -1,0 +1,50 @@
+.container{
+	margin: 0 auto;
+	width: 90%;
+	min-height:;
+}
+header{
+	width: 100%;
+	height: 100px;
+	background: #ECA500;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+header h1{
+	padding: 10px;
+	color:white;
+	font-family:'Roboto Condensed', sans-serif;
+
+
+}
+.main-page{
+	width: 300px;
+	height: 200px;
+	display:inline-block;
+	padding-right:5px ;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	margin-top: 10px;
+}
+.last_block{margin-right:0;
+}
+.pagination li{
+	display: inline
+}
+.pagination a{
+	text-decoration: none;
+	font-size:;
+	
+	width: 40px;
+	height: 40px;
+	border-radius:50%;
+}
+/*table{
+	margin: 0 auto;
+    margin-top: 20px;
+}
+tbody td{
+	width: 30px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 2px;
+    text-align: center;
+}*/
